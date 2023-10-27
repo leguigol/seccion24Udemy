@@ -1,10 +1,16 @@
 <template>
-  <h1>HOME</h1>
+  <h1>CRUD</h1>
 </template>
 
 <script>
-
 export default {
-  name: 'HomeView',
+    setup(){
+
+    },
+
 }
 </script>
+
+<style>
+
+</style>
